@@ -1,0 +1,9 @@
+br\com\michael\payrollapi\controller\PayrollController.class
+br\com\michael\payrollapi\PayrollApiApplication.class
+br\com\michael\payrollapi\service\PayrollService.class
+br\com\michael\payrollapi\model\User.class
+br\com\michael\payrollapi\model\Payroll.class
+br\com\michael\payrollapi\exception\StandardError.class
+br\com\michael\payrollapi\exception\ObjectNotFoundException.class
+br\com\michael\payrollapi\exception\GlobalException.class
+br\com\michael\payrollapi\feignClient\UserFeign.class

@@ -1,0 +1,10 @@
+br\com\michael\userapi\service\impl\UserServiceImpl.class
+br\com\michael\userapi\exception\GlobalException.class
+br\com\michael\userapi\model\User.class
+br\com\michael\userapi\repository\UserRepository.class
+br\com\michael\userapi\exception\StandardError.class
+br\com\michael\userapi\controller\impl\UserControllerImpl.class
+br\com\michael\userapi\UserApiApplication.class
+br\com\michael\userapi\controller\UserController.class
+br\com\michael\userapi\service\UserService.class
+br\com\michael\userapi\exception\ObjectNotFoundException.class
